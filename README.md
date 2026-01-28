@@ -1,5 +1,5 @@
-# -Order-Management-Analytics
-Business Insights Dashboard
+# Order-Management-Analytics Dashboard
+Business Insights Dashboard in Looker Studio
 
 🔍 Project Overview
 
